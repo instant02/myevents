@@ -1,0 +1,8 @@
+github.com/martin-helmich/cloudnativego-backend v0.0.0-20171222210257-6148b3bb66f2 h1:H7VPyKj26PA/JWh9dp5Kf+2/44OlJkTgu34DLNLwz2I=
+github.com/martin-helmich/cloudnativego-backend v0.0.0-20171222210257-6148b3bb66f2/go.mod h1:i/UAYIWj95kh8fxRLmBIxdYVcSb8LyN7JfhWJK3EJ3Y=
+github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
+github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
+gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 h1:VpOs+IwYnYBaFnrNAeB8UUWtL3vEUnzSCL1nVjPhqrw=
+gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22/go.mod h1:yeKp02qBN3iKW1OzL3MGk2IdtZzaj7SFntXj72NppTA=
